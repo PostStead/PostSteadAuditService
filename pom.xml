@@ -8,7 +8,7 @@
         <version>3.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>fmi.poststead</groupId>
+    <groupId>io.poststead</groupId>
     <artifactId>poststeadauditservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>PostSteadAuditService</name>

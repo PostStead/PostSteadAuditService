@@ -1,4 +1,4 @@
-package fmi.poststead.poststeadauditservice;
+package io.poststead.poststeadauditservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
