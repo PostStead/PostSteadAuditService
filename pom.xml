@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.poststead</groupId>
     <artifactId>poststeadauditservice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>PostSteadAuditService</name>
     <description>PostSteadAuditService</description>
     <properties>

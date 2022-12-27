@@ -17,7 +17,6 @@ import java.util.Arrays;
 @RequiredArgsConstructor
 public class PostSteadNotificationSubscriber {
 
-
     @RabbitListener(
             bindings = @QueueBinding(
                     value = @Queue(
