@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: auditservice
   jpa:
     hibernate:
       ddl-auto: update
@@ -28,8 +30,6 @@ spring:
           enabled: true
           max-attempts: ${RABBIT_MQ_RETRY:5}
         acknowledge-mode: manual
-  application:
-    name: auditservice
 
 server:
   port: 8083
